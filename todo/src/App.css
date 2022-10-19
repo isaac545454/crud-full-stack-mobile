@@ -1,0 +1,26 @@
+.header{
+  text-align: center;
+  background-color: rgb(0, 109, 204);
+  color: white;
+  
+  padding: 20px;
+}
+.header input{
+  width: 30%;
+  height: 30px;
+} 
+.header button{
+  padding: 8px;
+  margin: 10px;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+  margin: 10px auto;
+  width: 500px;
+  
+}
+.container button{
+  margin: 0 5px;
+}
