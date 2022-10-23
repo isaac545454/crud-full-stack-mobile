@@ -23,7 +23,7 @@
 
 <h2 style="margin-top: 20px">como rodar</h2>
 <ul>
-   <li>git clone https://github.com/isaac545454/rick</li>
+   <li>git clone https://github.com/isaac545454/crud-full-stack-mobile</li>
    <li>yarn intall(baixar o node_modules) dentro de cada pasta</li> 
    <li>yarn dev(rodar o projeto)</li> 
    <li>adicionar o usuario e password no .env</li>
