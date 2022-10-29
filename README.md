@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center">projeto</h1>
+<h1 style="text-align: center">crud full stack (react, react native, node, mongoDB)</h1>
 <img src="20221022_195959.gif">
 <img src="GIF 22-10-2022 19-56-31.gif">
  
@@ -21,7 +21,7 @@
   <li>ler</li>
 </ul>
 
-<h2 style="margin-top: 20px">como rodar</h2>
+<h2 style="margin-top: 20px">Como Rodar</h2>
 <ul>
    <li>git clone https://github.com/isaac545454/crud-full-stack-mobile</li>
    <li>yarn intall(baixar o node_modules) dentro de cada pasta</li> 
